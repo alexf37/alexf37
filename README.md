@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there!
+
+I'm Alex, a CS student currently studying at UVA. My interests in software are all over the place, but here on my Github you'll find mostly frontend projects. Dont get the wrong idea though—I can do more than center a div.
+
+This semester, I've been learning PHP and Rust. Last semester, I was working on [Floodwatch](http://floodwatch.io), an ML-powered flood prediction platform, for which I'm currently leading frontend and API development. Next, I'll be diving deeper into some more lower level programming with C++ and Zig. 
+
+If you're looking to contact me, the best way is probably through email at [xrk4np@virginia.edu](mailto:xrk4np@virginia.edu), my university email address.
 
 <!--
 **alexf37/alexf37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
