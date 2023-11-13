@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Alex, a CS student currently studying at UVA. My interests in software are all over the place, but here on my Github you'll find mostly frontend projects. Dont get the wrong idea though—I can do more than center a div.
+I'm Alex, a CS student currently studying at UVA. My interests in software are all over the place, but here on my Github you'll find mostly frontend projects. Don't get the wrong idea though—I can do more than center a div.
 
 This semester, I've been learning PHP and Rust. Last semester, I was working on [Floodwatch](http://floodwatch.io), an ML-powered flood prediction platform, for which I'm currently leading frontend and API development. Next, I'll be diving deeper into some more lower level programming with C++ and Zig. 
 
