@@ -1,8 +1,8 @@
 ### Hi there!
 
-I'm Alex, a CS student currently studying at UVA. My interests in software are all over the place, but here on my Github you'll find mostly frontend projects. Don't get the wrong idea though—I can do more than center a div.
+I'm Alex, a CS student at UVA living in SF for the summer. My interests in software are all over the place, but here on my Github you'll find mostly frontend projects. Don't get the wrong idea though—I can do more than center a div.
 
-This semester, I've been learning PHP and Rust. Last semester, I was working on [Floodwatch](http://floodwatch.io), an ML-powered flood prediction platform, for which I'm currently leading frontend and API development. Next, I'll be diving deeper into some more lower level programming with C++ and Zig. 
+This semester, I've been mostly writing C and working on low level stuff, with a little ML too. I'm also working on [Floodwatch](http://floodwatch.io), an ML-powered flood prediction platform, for which I'm currently leading frontend and API development. I have several projects I maintain myself too, which you can find here and in my portfolio. There's more to a lot of them than meets the eye, so please ask me about them! I love talking about my work and anything SWE-related.
 
 If you're looking to contact me, the best way is probably through email at [xrk4np@virginia.edu](mailto:xrk4np@virginia.edu), my university email address.
 
