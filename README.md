@@ -4,7 +4,7 @@ I'm Alex, a CS student at UVA living in Northern Virginia. My interests in softw
 
 This semester, I've been mostly writing C and working on low level stuff, with a little ML too. I'm also working on [Floodwatch](http://floodwatch.io), an ML-powered flood prediction platform, for which I'm currently leading frontend and API development. I have several projects I maintain myself too, which you can find here and in my portfolio. There's more to a lot of them than meets the eye, so please ask me about them! I love talking about my work and anything SWE-related.
 
-If you're looking to contact me, the best way is probably through email at [xrk4np@virginia.edu](mailto:xrk4np@virginia.edu), my university email address.
+If you're looking to contact me, the best way is probably through email at [alexmfoster37@gmail.com](mailto:alexmfoster37@gmail.com).
 
 <!--
 **alexf37/alexf37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
