@@ -1,8 +1,6 @@
 ### Hi there!
 
-I'm Alex, a CS student at UVA living in Northern Virginia. My interests in software are all over the place, but here on my Github you'll find mostly frontend projects. Don't get the wrong idea though—I can do more than center a div.
-
-This semester, I've been mostly writing C and working on low level stuff, with a little ML too. I'm also working on [Floodwatch](http://floodwatch.io), an ML-powered flood prediction platform, for which I'm currently leading frontend and API development. I have several projects I maintain myself too, which you can find here and in my portfolio. There's more to a lot of them than meets the eye, so please ask me about them! I love talking about my work and anything SWE-related.
+I'm Alex, a Member of Technical Staff at Quadrillion and student at Columbia living in NYC. My interests in software are all over the place, but here on my Github you'll find mostly frontend projects. Don't get the wrong idea though—I can do more than center a div.
 
 If you're looking to contact me, the best way is probably through email at [alexmfoster37@gmail.com](mailto:alexmfoster37@gmail.com).
 
