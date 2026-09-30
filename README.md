@@ -2,8 +2,6 @@
 
 I'm Alex, a Member of Technical Staff at Quadrillion and student at Columbia living in NYC. My interests in software are all over the place, but here on my Github you'll find mostly frontend projects. Don't get the wrong idea though—I can do more than center a div.
 
-If you're looking to contact me, the best way is probably through email at [alexmfoster37@gmail.com](mailto:alexmfoster37@gmail.com).
-
 <!--
 **alexf37/alexf37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
